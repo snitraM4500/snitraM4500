@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snitram4500" alt="snitram4500" /></a> </p>
 
-- 🔭 I’m currently working on **Nexus**
+- 🔭 I’m currently working in **FlowTech**
 
 - 🌱 I’m currently learning **Courses at FreeCodeCamp**
 
